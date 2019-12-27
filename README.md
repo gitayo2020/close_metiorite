@@ -7,4 +7,4 @@ This project requires python 3
 ```
 Install pipenv
 pipenv install requests
-`python3 find_meteors.py`
+pipenv run python meteor/find_meteors.py`
